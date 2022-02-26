@@ -9,7 +9,6 @@ https://go.dev/src/net/http/status.go
 
 ## Run
 ```
-go get github.com/gorilla/mux
-gofmt -w -s main.go
+go mod download
 go run main.go
 ```
